@@ -1,5 +1,5 @@
 # 💫 About Me:
-Me chamo Igor, tenho 19 anos.<br>Sou estudante de Front-End e Back-End. <br>Estou em busca de um estágio na área de Análise e Desenvolvimento de Sistemas.
+Me chamo Igor, tenho 19 anos.<br>Sou estudante de Análise e Desenvolvimento de Sistemas. <br>Estou em busca de um estágio na área de Front-End e Back-End.
 
 
 ## 🌐 Socials:
