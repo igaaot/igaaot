@@ -1,6 +1,5 @@
 # 💫 About Me:
-Me chamo Igor, tenho 19 anos.<br>Sou estudante de Análise e Desenvolvimento de Sistemas. <br>Estou em busca de um estágio na área de Front-End e Back-End.
-
+Me chamo Igor, tenho 19 anos.<br>Sou estudante de Análise e Desenvolvimento de Sistemas. <br>Estou em busca de um estágio na área de Front-End, Back-End, Analise de Dados, Especificação de requisitos, e áreas correlatas
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-nogueira-146348299) 
