@@ -1,7 +1,13 @@
-# 💫 About Me:
 Hello world!! I'm Igor, welcome to my profile
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-nogueira-146348299) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-nogueira-146348299)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/igaaot/)
+
+
+
+# 💫 About Me: 
+Sou Igor, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas da Fatec São Caetano do Sul. Estou em busca de uma oportunidade de estágio nas áreas de Front-End, Back-End, Análise de Dados e áreas relacionadas, para aplicar meus conhecimentos e continuar aprendendo em um ambiente desafiador.
+
 
 
 # 💻 Tech Stack:
