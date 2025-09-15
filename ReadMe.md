@@ -6,7 +6,7 @@ Hello world!! I'm Igor, welcome to my profile
 
 
 # 💫 About Me: 
-Sou Igor, tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas da Fatec São Caetano do Sul. Estou em busca de uma oportunidade de estágio nas áreas de Front-End, Back-End, Análise de Dados e áreas relacionadas, para aplicar meus conhecimentos e continuar aprendendo em um ambiente desafiador.
+Sou Igor, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas da Fatec São Caetano do Sul. Estou em busca de uma oportunidade de estágio nas áreas de Front-End, Back-End, Análise de Dados e áreas relacionadas, para aplicar meus conhecimentos e continuar aprendendo em um ambiente desafiador.
 
 
 
