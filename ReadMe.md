@@ -8,14 +8,14 @@ Estou em busca da minha **primeira oportunidade de estágio na área de dados**,
 
 ---
 
-## 📚 Atualmente
+## Atualmente
 
 - 📊 Estudando **SQL, modelagem de dados e análise exploratória**
 - 📈 Desenvolvendo **projetos de análise e visualização de dados**
 
 ---
 
-## 💻 Tecnologias
+## Tecnologias
 
 ### Análise de Dados
 SQL • Python • Excel • Power BI 
