@@ -2,7 +2,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas na Fatec São Caetano do Sul**, com grande interesse na area de **Análise de Dados**.
 
-Gosto de trabalhar com dados para identificar padrões, gerar insights e transformar informações em algo útil para a tomada de decisão. Atualmente venho aprofundando meus estudos em **SQL, modelagem de dados e análise exploratória**, além de utilizar ferramentas como **Python, Excel, PostgreSQL,e Power BI** para análise e visualização.
+Gosto de trabalhar com dados para identificar padrões, gerar insights e transformar informações em algo útil para a tomada de decisão. Atualmente venho aprofundando meus estudos em **SQL, modelagem de dados e análise exploratória**, além de utilizar ferramentas como **Python, Excel, PostgreSQL e Power BI** para análise e visualização.
 
 Estou em busca da minha **primeira oportunidade de estágio na área de dados**, onde eu possa aplicar o que venho aprendendo, continuar evoluindo tecnicamente e contribuir com projetos reais.
 
