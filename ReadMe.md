@@ -28,15 +28,6 @@ Java • C • .NET • Javascript • React
 
 ---
 
-## 📊 Github Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igaaot&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igaaot&layout=compact&theme=dracula"/>
-</p>
-
----
-
 ## 📫 Vamos nos conectar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-nogueira-146348299)
