@@ -10,11 +10,11 @@ Buscando vaga júnior ou de assistente em dados ou desenvolvimento.
 
 ## Projetos
 
-**[Vetus](link-do-repo)** — sistema desktop de gestão para instituições de longa permanência para idosos, meu TCC. Java, JavaFX, Hibernate/JPA, banco H2, arquitetura em camadas. Feito em grupo de 3.
+**[Vetus](https://github.com/igaaot/Vetus-2.0)** — sistema desktop de gestão para instituições de longa permanência para idosos, meu TCC. Java, JavaFX, Hibernate/JPA, banco H2, arquitetura em camadas. Feito em grupo de 3.
 
-**[Dashboard de Risco Financeiro](link-do-repo)** — modelagem em SQL, pipeline de ETL e dashboard no Power BI simulando análise de crédito e comprometimento de renda.
+**[Dashboard de Risco Financeiro](https://github.com/igaaot/dashboard-analise-risco-clientes)** — modelagem em SQL, pipeline de ETL e dashboard no Power BI simulando análise de crédito e comprometimento de renda.
 
-**[Sistema de Gestão de Concessionária](link-do-repo)** — CRUD de veículos, clientes, vendas e test-drive, com herança e polimorfismo na modelagem das entidades.
+**[Sistema de Gestão de Concessionária](https://github.com/igaaot/ConcessionariaJava)** — CRUD de veículos, clientes, vendas e test-drive, com herança e polimorfismo na modelagem das entidades.
 
 ---
 
