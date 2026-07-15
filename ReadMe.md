@@ -1,35 +1,29 @@
-# Opa, sou o Igor 👋
+# Igor Nogueira Ferreira
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na Fatec São Caetano do Sul**, com grande interesse na area de **Análise de Dados**.
+Tecnólogo em Análise e Desenvolvimento de Sistemas pela Fatec São Caetano do Sul. Curso concluído, focado em dados: SQL, modelagem relacional, ETL e Power BI, com alguns projetos de desenvolvimento em Java pelo caminho — incluindo o meu TCC.
 
-Gosto de trabalhar com dados para identificar padrões, gerar insights e transformar informações em algo útil para a tomada de decisão. Atualmente venho aprofundando meus estudos em **SQL, modelagem de dados e análise exploratória**, além de utilizar ferramentas como **Python, Excel, PostgreSQL e Power BI** para análise e visualização.
+Gosto mais da parte de entender o problema antes de sair escrevendo código. Na prática isso significa passar mais tempo desenhando modelo de dados e levantando requisito do que eu gostaria, mas funciona.
 
-Estou em busca da minha **primeira oportunidade de estágio na área de dados**, onde eu possa aplicar o que venho aprendendo, continuar evoluindo tecnicamente e contribuir com projetos reais.
-
----
-
-## Atualmente
-
-- 📊 Estudando **SQL, modelagem de dados e análise exploratória**
-- 📈 Desenvolvendo **projetos de análise e visualização de dados**
+Buscando vaga júnior ou de assistente em dados ou desenvolvimento.
 
 ---
 
-## Tecnologias
+## Projetos
 
-### Análise de Dados
-SQL • Python • Excel • Power BI 
+**[Vetus](link-do-repo)** — sistema desktop de gestão para instituições de longa permanência para idosos, meu TCC. Java, JavaFX, Hibernate/JPA, banco H2, arquitetura em camadas. Feito em grupo de 3.
 
-### Banco de Dados
-MySQL • PostgreSQL • SQL Server • SQLite • MariaDB
+**[Dashboard de Risco Financeiro](link-do-repo)** — modelagem em SQL, pipeline de ETL e dashboard no Power BI simulando análise de crédito e comprometimento de renda.
 
-### Linguagens
-Java • C • .NET • Javascript • React 
+**[Sistema de Gestão de Concessionária](link-do-repo)** — CRUD de veículos, clientes, vendas e test-drive, com herança e polimorfismo na modelagem das entidades.
 
 ---
 
-## 📫 Vamos nos conectar
+## Tecnologias que uso
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-nogueira-146348299)
+**Dados:** SQL, Python, Power BI, Excel avançado, R
+**Banco de dados:** PostgreSQL, MySQL, SQL Server, MariaDB
+**Dev:** Java, JavaFX, Hibernate/JPA, JavaScript, Node.js, React
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/igaaot/)
+---
+
+[LinkedIn](https://linkedin.com/in/igor-nogueira-146348299) · [E-mail](mailto:igornogueiraferreira77@gmail.com)
